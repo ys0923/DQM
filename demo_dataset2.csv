@@ -1,0 +1,15 @@
+﻿FirstName,LastName,Gender,Education,CountryCode,AreaCode,OfficePhone,Street,City,AreaCode,DistanceFromHomeToOffice,Zip,Salary,MaritalStatus,Hiredate
+Mike,Clark,Male,College,1,917.5,, Crichton ,NYC,917.5,15,10002,"$60,000 ",single,04/03/2010
+Rick,Stark,Male,Mast,44,131,3456789, Crichton ,NYC,131,45,EH48LE,$96k,married,02/29/2014
+Joe,Brady,Male,College,1,917,6301856, Crichton ,NYC,917,25,10002,$90k,married,07/11/2020
+Stan,Manzo,Male,Master,1,908,,Mtn Ave,MH,908,12,NJ 07974,€85k,single,07/02/2016
+Tyler,Self,,Below College,1,765,4943872,Win Hentschel,WL,765,6,47906,$38k,married,06-06-2015
+Christopher,Yam,Male,Bachlor,1,765,4943872,Win Hentschel,WL,765,20,47906,"$62,000.50 ",divorced,02/23/2008
+Mary,Smith,Female,Bachelor,1,908,7966899,Mtn Ave,MH,908,30,NJ  07974,$58k,single,02/10/2014
+Ruth,Clark,Prefer not to say,Bachelor,44,131,3456789,Mayfield,EDI,131,18,EH4 8LE,,married,09/30/2011
+Mary,Luth,Female,Bachelor,1,908,7966899,Mtn Ave,MH,908,9,NJ 07974,$50k,divorced,04-18-2016
+Bethany,Holmes,Female,Bachelor,1,765,,Win Hentschel,WL,765,5,47906,£45k,single,07/15/2019
+Stan,Manzo,Male,Master,1,908,,Mtn Ave,MH,908,12,NJ 07974,€85k,single,07/02/2016
+Sam,Hagan,Male,Bachelor,1,765,4943872,Win Hentschel,WL,765,12,47906,$55k,married,04-13-2015
+Mary,Luth,Female,Master,44,131,3456789,Mayfield,EDI,131,20,EH4 8LE,$80k,married,04-18-2016
+Mary,Smith,Female,Below College,1,908,7966899,Mtn Ave,MH,908,30,NJ 07974,$50k,single,02/10/2014
